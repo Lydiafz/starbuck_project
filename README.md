@@ -55,12 +55,12 @@ The following files were included in the current project:
 
 ## Conclusions
 
-#### For transactions:
+**For transactions:**
 
 - There is a clear trend that the female has the higher transaction than other two gender group;
 - Although there is a little bit difference between gender group, overall, the higher income group has the higher transaction;
 
-#### For offers:
+**For offers:**
 
 - Three models all provide fair to good results, but the DecisionTreeClassifier model generated the best result;
 - According  to  the results, we can see that the reward given by completing the offer provides is the most important predictor of the offer complete.
